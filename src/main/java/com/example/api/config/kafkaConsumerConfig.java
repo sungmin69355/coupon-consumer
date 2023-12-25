@@ -1,4 +1,4 @@
-package com.example.consumer.config;
+package com.example.api.config;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.LongDeserializer;
